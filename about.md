@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Profesional en la Administración, Asesor Comercial, Usuario Linux, Programador Jr. Python, Escritor Aficionado de la Ciencia Ficción
 
-### More Information
+### Mas Información
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+[srosuna01 en gmail](mailto:srosuna01@gmail.com)
+
+### Teléfono sólo Whatsapp
++584120550726
