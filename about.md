@@ -20,7 +20,7 @@ Diversos temas
 
 ### Invítame a un café. 
 
-!({{site.baseurl}}/images/pp_cc_mark_37x23.jpg
+![Logo Paypal]({{ site.baseurl }}/images/pp_cc_mark_37x23.jpg
 
 [PayPal](https://paypal.me/srojas1974)
 
