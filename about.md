@@ -20,7 +20,10 @@ Diversos temas
 
 ### Invítame a un café. 
 
-![Logo Paypal]({{ site.baseurl }}/images/pp_cc_mark_37x23.jpg)
+![Logo Paypal]({{ site.baseurl }}/images/pp_cc_mark_37x23.jpg) [PayPal](https://paypal.me/srojas1974)
 
-[PayPal](https://paypal.me/srojas1974)
+Bitcoin : 
+Please send at least ฿ 0.0005 BTC to the following address:
+1LkktaKufyUB5Ro46nEtufrVPe1L4efo8y
+
 
