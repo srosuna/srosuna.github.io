@@ -19,6 +19,8 @@ Diversos temas
 +584120550726
 
 ### Invítame a un café. 
-({{site.baseurl}}/images/pp_cc_mark_37x23.jpg
+
+!({{site.baseurl}}/images/pp_cc_mark_37x23.jpg
+
 [PayPal](https://paypal.me/srojas1974)
 
