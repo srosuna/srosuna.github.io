@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre Mí
 permalink: /about/
 ---
 
@@ -10,9 +10,9 @@ Profesional en la Administración, Asesor Comercial, Usuario Linux, Programador 
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contáctame
+### Contáctame                                      ### Teléfono sólo Whatsapp
 
-[srosuna01 en gmail](mailto:srosuna01@gmail.com)
+[srosuna01 en gmail](mailto:srosuna01@gmail.com)  +584120550726
 
-### Teléfono sólo Whatsapp
-+584120550726
+
+
