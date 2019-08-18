@@ -1,0 +1,10 @@
+---
+layout: post
+title: ¡Hola Mundo!
+---
+
+Hola Mundo, estrenando jekyll
+
+![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
+
+Basandome en nuevo blog estático para gente con computadoras lentas gracias a  [El repositorio de Jekyll Now ](https://github.com/barryclark/jekyll-now) on GitHub.
