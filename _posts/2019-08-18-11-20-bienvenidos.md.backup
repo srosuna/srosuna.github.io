@@ -1,0 +1,18 @@
+---
+layout: post
+title: ¡Hola Mundo!
+---
+
+Hola Mundo, estrenando jekyll
+
+![_config.yml]({{ site.baseurl }}/images/portada-blog.png)
+
+Quiero darles la bienvenida a mi nuevo blog.
+En este mi primer artículo, quiero aclarar que la intención de este blog es enfocado a diversos temas de ámbito general, pero especialmente para escritores sean técnicos o no, que dispongan de equipos de bajos recursos.
+En mi caso, dispongo de un equipo algo obsoleto, un Intel Atom con apenas 2gb de Ram, el cual estas características impiden que pueda hacer blog y publicar diverso contenido en un WordPress, Drupal, Joomla, porque aunque son excelentes plataformas CMS, la misma requieren una máquina mas decente de al menos 4 ~ 8 gb de ram en los actuales momentos.
+En Venezuela es bien sabido que se está pasando por una situación atípica, que hace imposible para muchos obtener un equipo de última generación, lo que más abunda según he visto son equipos minilaptos con apenas 1gb de Ram, donde ya cargar un navegador como Mozilla Firefox, Google Chrome, Opera es una tortura, y aunque existe unas alternativa como Palemoon (un fork de Firefox pero liviano)no todas la páginas carga tan rápido como queremos, sin sacrificar los ya agotados recursos de esos equipos.
+En vista de ello, he conocido algunas personas que tienen esos equipo  y quiere trabajar, para ello ofreceré una serie de tips en este humilde blog para que puedan  publicar su contenido.
+
+Mucho de los programas que usaré son libres, software libre bajo la licencia pública general GNU, por lo que también son programas que requieren el uso de GNU/Linux, y salvo que se indique, algunos será
+
+Espero que puedan ser de tu utilidad, 
