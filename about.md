@@ -8,7 +8,7 @@ Profesional en la Administración, Asesor Comercial, Usuario Linux, Programador 
 
 ### Mas Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Diversos temas
 
 ### Contáctame                                      ### Teléfono sólo Whatsapp
 
