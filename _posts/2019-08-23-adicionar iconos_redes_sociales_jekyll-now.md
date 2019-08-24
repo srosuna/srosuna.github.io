@@ -108,7 +108,7 @@ Y listo, así es como podemos agregar los botones de plataformas de pago, y tamb
 
  Y eso es todo, si te gustó o no, por favor no olvides comentar y compartir, si algo no te funciona escribe para poder ayudarte en lo que pueda, y también si lo consideras, me puedes invitar un café ya que me gusta escribir y lo que me motiva es una buena taza de té, café o una gaseosa, y poder seguir generando contenido, y publicar algunos tips que iré descubriendo para mejorar tu sitio web en Jekyll-now y sobre herramientas libres para escritores con equipos de bajos recursos.
 
-**Referencias**
+**Enlaces Externos**
 * [1] [Inkscape.](https://inkscape.org/)
 * [2] [Wikipedia Base64](https://es.wikipedia.org/wiki/Base64)
 * [3] [Base64 Image Encoder](https://www.base64-image.de/)
