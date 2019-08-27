@@ -9,11 +9,16 @@ permalink: /about/
 
 ![Srosuna]({{ site.baseurl }}/images/srosuna33-100.jpeg)
 
-Profesional en la Administración, Asesor Comercial, Conferencista en Software Libre, Usuario Linux en sistemas basados en Debian, Programador Jr. Python, Escritor Aficionado, amante de la Ciencia Ficción, Amante de la Música Metal, Defensor de los animales, 
+Profesional en la Administración, Asesor Comercial, Conferencista en Software Libre, Usuario Linux en sistemas basados en Debian, Programador Jr. Python, Escritor Aficionado, amante de la Ciencia Ficción, Amante de la Música Metal, Defensor de los animales, amante de la vida. 
 
 ### CV
+* Técnico de Organización BBVA Provincial.
+* Supervisor de Banca operativa.
+* Asesor Comercial.
+* Organizador del FLISOL (Festival de Instalación de Software Libre año 2011)
+* Usuario GNU/Linux Devuan, y Debian.
+* Programador Python.
 
-En edición...
 
 ### Contáctame
 
