@@ -7,7 +7,7 @@ permalink: /about/
 ---
 ### Sobre Mi:
 
-![Srosuna]({{ site.baseurl }}/images/srosuna.jpeg)
+![Srosuna]({{ site.baseurl }}/images/srosuna33-100.jpeg)
 
 Profesional en la Administración, Asesor Comercial, Conferencista en Software Libre, Usuario Linux en sistemas basados en Debian, Programador Jr. Python, Escritor Aficionado, amante de la Ciencia Ficción, Amante de la Música Metal, Defensor de los animales, 
 
