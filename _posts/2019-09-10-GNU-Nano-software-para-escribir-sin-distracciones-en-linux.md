@@ -1,11 +1,11 @@
 ---
 layout: post
-title: GNU Nano, Software Para Escribir Literatura y Manuales de forma Profesional Y Sin Distracciones en Linux.
+title: Uso de GNU Nano, Como Software Para Escribir Literatura y Manuales de forma Profesional Y Sin Distracciones en Linux.
 date: 2019-09-03
 author: Samuel R Osuna.
 categories: Blogging, writing, literatura, software, libre, foss, distraction-free, nano, gnu
 ---
-#### Escritura libre de distracciones, también llamado en inglés: #distraction-free con una herramienta en linea de comandos que solemos pasar por alto.
+#### El uso de del editor de texto plano GNU/Nano como software de escritura libre de distracciones, también llamado en inglés: #distraction-free con una herramienta en linea de comandos que solemos pasar por alto.
 
 ¡Usa lo más simple, no te compliques!
 
@@ -98,8 +98,10 @@ Generalmente Nano viene en el idioma del sistema, y solo debes acostumbrarte al 
 
 #### Conclusiones.
 
- Creo que mas simple que esta herramienta, muy pocas existe, en verdad hay muchas opciones distraction-free o libre de distracciones tanto libres como privativas, pero tan livianas como estas ninguna, no es la mejor, estoy seguro, pero si la mas versátil.
+ Creo que como esta simple herramienta, muy pocas existen, en verdad hay muchas opciones orientadas a ser distraction-free o libre de distracciones tanto libres como privativas, pero tan livianas como esta me atrevería a decir ninguna, tampoco es la mejor, estoy seguro, pero si la mas versátil.
 
+ Muchos editores de texto, como VIM, Emacs, y otros más se pueden usar como editores libre de distracciones, pero requieren la incorporación de plugins adicionales, que bien depende del creador, pueden disminuir el rendimiento de nuestro sistema con bajos recursos —recuerden que escribo principalmente para dueños de equipos con bajos recursos—, en cambio con esta opción contamos con un editor por defecto dispuesto a servirnos como una opción válida para escribir nuestros textos.
  Para escribir artículos, capítulos de nuestras novelas, blog, y otras más de verdad es una herramienta a considerar, no ocupa mucho espacio ni consume tantos recursos.
 
- Tiene muchos trucos más, muchas opciones, por lo cual te recomiendo a que lo revises, y compartas, si tienes alguna duda, no olvides comentar.
+ Tiene muchos trucos más, muchas opciones, por lo cual te recomiendo a que lo revises, y compartas, si tienes alguna duda, no olvides comentar y compartir.
+¡Un saludo y hasta el próximo artículo!
