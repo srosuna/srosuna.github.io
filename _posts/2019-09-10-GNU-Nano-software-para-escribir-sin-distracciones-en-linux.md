@@ -5,7 +5,7 @@ date: 2019-09-03
 author: Samuel R Osuna.
 categories: Blogging, writing, literatura, software, libre, foss, distraction-free, nano, gnu
 ---
-#### Escritura libre de distracciones o llamado en inglés #distraction-free con una herramienta en linea de comandos que solemos pasar por alto.
+#### Escritura libre de distracciones, también llamado en inglés: #distraction-free con una herramienta en linea de comandos que solemos pasar por alto.
 
 ¡Usa lo más simple, no te compliques!
 
