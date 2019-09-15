@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uso de GNU Nano, Como Software Para Escribir Literatura y Manuales de forma Profesional Y Sin Distracciones en Linux.
+title: Uso de GNU Nano, Como Software Distraction-free Para Escribir Literatura y Manuales de forma Profesional Y Sin Distracciones en Linux.
 date: 2019-09-03
 author: Samuel R Osuna.
 categories: Blogging, writing, literatura, software, libre, foss, distraction-free, nano, gnu
@@ -105,3 +105,6 @@ Generalmente Nano viene en el idioma del sistema, y solo debes acostumbrarte al 
 
  Tiene muchos trucos más, muchas opciones, por lo cual te recomiendo a que lo revises, y compartas, si tienes alguna duda, no olvides comentar y compartir.
 ¡Un saludo y hasta el próximo artículo!
+
+#### Créditos
+ Debo darle créditos a Frederik Krejmbor dueño del blog en Medium en inglés que pueden ver en este [enlace](https://medium.com/@005/the-gnu-nano-editor-for-serious-writers-36f6decf8fad), de quien me basé para sacar este artículo adaptado al español con mis modificaciones y propias conclusiones aunque algunas son basadas en las de Frederik.
