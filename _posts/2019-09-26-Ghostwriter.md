@@ -1,9 +1,9 @@
 ---
 layout: post
-title: GhostWriter, Software Distraction-free para manuales técnicos y páginas webs.
+title: GhostWriter, Software Distraction-free para editar manuales técnicos y páginas webs con MarkDown.
 date: 2019-09-26
 author: Samuel R Osuna.
-categories: Blogging, writing, literatura, tutoriales, manuales, técnicos, software, libre, foss, distraction-free, ghostwriter, gnu
+categories: Blogging, writing, literatura, tutoriales, manuales, técnicos, software, libre, foss, markdown, distraction-free, ghostwriter, gnu, html,
 ---
 
 Hola a todos, bienvenidos a mi nuevo artículo, en este caso voy a hacer una reseña a un editor de texto plano orientado a un uso más profesional, para publicación de páginas webs usando la sintaxis de  [markdown](https://www.genbeta.com/guia-de-inicio/que-es-markdown-para-que-sirve-y-como-usarlo), en este caso, será sobre GhostWriter.
