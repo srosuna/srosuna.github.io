@@ -34,23 +34,25 @@ Si es la primera vez que usa un editor Markdown, asegúrese de consultar la Guí
 
 Volviendo a GhostWriter. simplemente es un software que nos facilita la vida para escribir con este código de formato de texto, ya que él cuenta con menú en sus barras de herramientas que nos facilita el marcado de texto que saldrá publicado en la web.
 
-¡Deja de procrastinación y no sigas postergando tu trabajo, ¡ponte a trabajar! Ghostwriter ofrece una experiencia de escritura sin distracciones y le brinda todas las herramientas que necesita para crear contenido. Realmente es un editor de rebajas muy útil.
+¡Deja de procrastinación y no sigas postergando tu trabajo!, ¡ponte a trabajar! Ghostwriter ofrece una experiencia de escritura sin distracciones y le brinda todas las herramientas que necesita para crear contenido. Realmente es un editor de markdown muy útil y hasta intuitivo.
 
-Es posible exportar a otros formatos el documento.
+Tambíen una vez terminado nuestro trabajo, es posible exportar a otros formatos el documento como pdf, txt, odt, epub, entre otros.
 
 
   ![_config.yml]({{ site.baseurl }}/images/ghostwiter/exportar-ghostwriter.png)
 
 ### Puntos a favor:
-* Ligero, liviano, escribir es un placer en este software, que tiene más herramientas disponibles par facilitar nuestro trabajo.
-* Está pensado para el uso de crear páginas web, entonces por ello, los blogueros, editores de manuales y tutoriales de tipo técnico.
-* Exporta a diversos formatos, pdf, txt, epub ─si, podemos crear libros electrónicos desde este editor─, html y muchos formatos más desde el menú Archivo => Exportar.
+* Ligero, liviano, escribir es un placer en este software, que tiene más herramientas disponibles para facilitar nuestro trabajo.
+* Está pensado para crear páginas webs, entonces por ello, los blogueros, editores de manuales y tutoriales de tipo técnico, el usuario cuentan con una excelente herramienta que le permitirá trabajar incluso sin conocer mucho sobre html.
+* Exporta a diversos formatos, pdf, txt, epub ─si, podemos crear libros electrónicos con este editor─, html y muchos formatos más, todo desde el menú Archivo => Exportar.
 * Corrector ortográfico con varios idiomas.
 
 ### Contras:
 A veces, suele colgarse un poco, cuando el documento sobrepasa las 1000 palabras, pero ha mejorado desde la última actualización. Esto trae algo de problemas en equipos de bajos recursos.
 
 ### Conclusiones.
-Si necesitas aprender MarkDown, Ghostwriter es el software adecuado para iniciar el aprendizaje de este formato de marcado de texto, los usuarios primerizos, podrán ver los resultados a primera vista, pero como todo, es una experiencia personal, que quizás pueda servir a la de ustedes.
+Si necesitas aprender MarkDown, Ghostwriter es el software editor más adecuado para iniciar el aprendizaje de este formato de marcado de texto, los usuarios primerizos, podrán ver los resultados a primera vista, pero como todo, es una experiencia personal que mejorará con el uso y el tiempo.
 
-Por favor si consigues alguna otro consejo que no haya sido comentado aquí, puedes dejarlo en los comentarios, y si gustas y deseas apoyarme, te acepto un café, al final de esta página encontrarás un enlace donde puedas enviarme una contribución para tomar un café.
+### Finalmente.
+
+Por favor si consigues alguna otro consejo que no haya sido comentado aquí, puedes dejarlo en los comentarios, y si puedes, comparte en tus redes para que esta información llegue a otras personas, y si gustas y deseas apoyarme, te acepto un café, al final de esta página encontrarás un enlace donde puedas enviarme una contribución para tomar un café.
