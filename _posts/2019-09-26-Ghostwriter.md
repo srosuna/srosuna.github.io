@@ -55,4 +55,4 @@ Si necesitas aprender MarkDown, Ghostwriter es el software editor más adecuado 
 
 ### Finalmente.
 
-Por favor si consigues alguna otro consejo que no haya sido comentado aquí, puedes dejarlo en los comentarios, y si puedes, comparte en tus redes para que esta información llegue a otras personas, y si gustas y deseas apoyarme, te acepto un café, al final de esta página encontrarás un enlace donde puedas enviarme una contribución para tomar un café.
+Por favor, si al usar ghostwriter sabes de otra funcionabilidad que que no haya sido comentada aquí, puedes dejarla en los comentarios, y si puedes, comparte en tus redes para que esta información llegue a otras personas. Si gustas y deseas apoyarme, te acepto un café, al final de esta página encontrarás un enlace donde puedas enviarme una contribución para tomar un café.
