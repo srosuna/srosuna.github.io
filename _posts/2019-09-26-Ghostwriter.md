@@ -15,7 +15,7 @@ Si estás buscando un editor de texto normal, sigue buscando porque Ghostwriter 
 Ghostwriter es un programa con licencia de software libre y de código abierto que está disponible para Windows y Linux. Centrándose solo en Windows, debe mencionarse que Ghostwriter está disponible como portátil y como instalador. Dicho instalador lo guiará a través de todos los pasos que debe seguir para instalar Ghostwriter en su PC con Windows.
 
 
-  ![_config.yml]({{ site.baseurl }}/images/ghostwriter/pantallazo1.png)
+  ![_config.yml]({{ site.baseurl }}/images/ghostwiter/pantallazo1.png)
 
 
 Pero como en este artículo me centraré en especial a los usuarios Linux, este se puede obtener en casi todas las distribuciones Linux mas famosas, como Debian, Ubuntu, Fedora.
@@ -39,7 +39,7 @@ Volviendo a GhostWriter. simplemente es un software que nos facilita la vida par
 Es posible exportar a otros formatos el documento.
 
 
-  ![_config.yml]({{ site.baseurl }}/images/ghostwriter/exporatar-ghostwriter.png)
+  ![_config.yml]({{ site.baseurl }}/images/ghostwiter/exportar-ghostwriter.png)
 
 ### Puntos a favor:
 * Ligero, liviano, escribir es un placer en este software, que tiene más herramientas disponibles par facilitar nuestro trabajo.
