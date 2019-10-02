@@ -7,7 +7,8 @@ categories: Wordpress, xamp, lamp, php, actualizar, descarga, fallida.
 ---
 
 
-Hoy vengo con un articulo un poco fuera de la temática del blog, pero que me paso esta falla de nuevo no hace mucho, y recordé que escribí algo al respecto en mi perfil de linkedin, que dejé de usarlo porque al tener una máquina con bajos recursos, esa página (linkedin) se ha puesto muy pesada para mi gusto, así que me traje el artículo técnico para este portal en github donde la sencillez y lo liviano es lo que reina.
+Hoy vengo con un articulo un poco fuera de la temática del blog, pero que me paso esta falla de nuevo no hace mucho, y recordé que escribí algo al respecto en mi perfil de linkedin, que dejé de usarlo porque al tener una máquina con bajos recursos, y se ha puesto muy pesada para mi gusto, así que me traje el artículo técnico para github donde la sencillez y lo liviano es lo que reina.
+
 
 ![_config.yml]({{ site.baseurl }}/images/articulo30-09-2019/wordpress.png)
 
