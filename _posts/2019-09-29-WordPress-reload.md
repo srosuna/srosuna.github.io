@@ -6,8 +6,10 @@ author: Samuel R Osuna.
 categories: Wordpress, xamp, lamp, php, actualizar, descarga, fallida.
 ---
 
+
 Hoy vengo con un articulo un poco fuera de la temática del blog, pero que me paso esta falla de nuevo no hace mucho, y recordé que escribí algo al respecto en mi perfil de linkedin, que dejé de usarlo porque al tener una máquina con bajos recursos, esa página (linkedin) se ha puesto muy pesada para mi gusto, así que me traje el artículo técnico para este portal en github donde la sencillez y lo liviano es lo que reina.
 
+![_config.yml]({{ site.baseurl }}/images/articulo30-09-2019/o.jpeg
 
 Muchas veces tenemos el problema en WordPress Joomla, Drupal, etc, cuando lo instalamos y vamos a actualizar a la nueva versión del CMS o algún plugins del mismo no sale el siguiente error:
 
@@ -15,11 +17,17 @@ Muchas veces tenemos el problema en WordPress Joomla, Drupal, etc, cuando lo ins
 
 También nos puede salir en español, ingles o combinación de ambos:
 
-*  **ing**
- 
-*  **transports**
-
-*  **found**
+> no  **working** transports  **found wordpress**
+> 
+> **descarga fallida.** no  **working** transports  **found**
+>
+>  **error rss wp** http  **error** no  **working** transports**found**
+>
+> no  **working** transports  **found wordpress localhost**
+>
+>  **installation failed: download failed.** no  **working** transports **found**
+>
+> **falló la descarga** no  **working** transports  **found**
 
 Esto no se debe generalmente a un problema en tu CMS o algún archivo en tu carpeta **www/** esto se debe a una configuración en tu archivo **php.ini**, no obstante para arreglar este problema es sumamente sencillo, más de lo que piensas.
 
@@ -44,17 +52,17 @@ Las extensiones PHP a habilitar son **Curl** y **OpenSSL**.
 *  Abrimos http://localhost/phpinfo.php y vamos hasta "Loaded Configuration File " ahí nos muestrará la ruta donde se encuentra, en mi caso esta en C:\wamp\bin\apache\apache2.2.22\bin\php.ini
 
 *  Con nuestro editor de texto buscamos donde se encuentra la linea:
-> 	;extension=php_curl.dll
+> ;extension=php_curl.dll
 
 *  Eliminamos el principio el signo de punto y coma ";" y nos queda así:
 
-> 	 extension=php_curl.dll
+>  extension=php_curl.dll
 
 *	Buscamos la siguiente linea:
-> 	;extension=php_openssl
+> ;extension=php_openssl
 
 *	De igual forma eliminamos el signo de punto y coma ";" para quedarnos así
-> 	extension=php_openssl
+> extension=php_openssl
 
 * Guardas, cierras, reinicias los servicios de Apache, esto solucionaria el problema y no deberías tenerlos tampoco para actualizar tu WordPress u otro CMS y sus plugins.
 
