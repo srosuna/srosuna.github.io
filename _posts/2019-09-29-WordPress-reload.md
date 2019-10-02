@@ -9,7 +9,7 @@ categories: Wordpress, xamp, lamp, php, actualizar, descarga, fallida.
 
 Hoy vengo con un articulo un poco fuera de la temática del blog, pero que me paso esta falla de nuevo no hace mucho, y recordé que escribí algo al respecto en mi perfil de linkedin, que dejé de usarlo porque al tener una máquina con bajos recursos, esa página (linkedin) se ha puesto muy pesada para mi gusto, así que me traje el artículo técnico para este portal en github donde la sencillez y lo liviano es lo que reina.
 
-![_config.yml]({{ site.baseurl }}/images/articulo30-09-2019/0.jpg
+![_config.yml]({{ site.baseurl }}/images/articulo30-09-2019/wordpress.png
 
 Muchas veces tenemos el problema en WordPress Joomla, Drupal, etc, cuando lo instalamos y vamos a actualizar a la nueva versión del CMS o algún plugins del mismo no sale el siguiente error:
 
