@@ -9,6 +9,8 @@ Modificación de  la fuente original publicada por Ramiro Algozino.
 
 Hace un tiempo atrás, me vi en la necesidad de realizar un evento de Software Libre, que necesitaba emitir certificados de asistencia a dicho evento, gracias a el amigo [Ralgozino](http://twitter.com/ralgozino) y su [blog](https://ralgozino.wordpress.com/2012/04/20/generando-certificados-diplomas-con-python-rst2pdf/) donde esta la fuente de esta script Generando Certificados / Diplomas con Python + rst2pdf pude crear una adaptación para Venezuela de dicha script, ya que, aunque no es necesario, en los Eventos de cualquier índole en Venezuela, se requiere colocar el numero de cédula o pasaporte para su debida validez.
 
+Es bien sabido que algunos de estos eventos los asistentes exigen o bien los organizadores emiten algun certificado de asistencia, pero hay pocos manuales en la web bajo software libre documentados para hacerlo, esta ejemplo, [pyploma](https://bioinformatiquillo.wordpress.com/2011/07/07/pyploma-generador-de-diplomas-en-latex-a-patir-de-una-lista-de-datos/) otro que se hace con [python + Apache OpenOffice](https://forum.openoffice.org/es/forum/viewtopic.php?f=50&t=8818) entre otros, algunos complicados dependiendo del nivel del programador y que exigen algun conocimiento más avanzado.
+
 Este tutorial esta realizado para venezolanos, aunque no es limitativo ya que es software libre y cualquiera lo puede modificar y redistribuir bajo los términos de la licencia GPL v3. 
 
 Este tutorial está orientado para personas que tengan una necesidad de emitir certificados de forma masiva sea por ejemplo:
