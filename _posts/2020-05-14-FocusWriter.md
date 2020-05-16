@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: FocusWriter, Un software para la literatura libre 
 date: 2020-05-14
@@ -7,7 +7,9 @@ categories: literatura, software, libre, linux, windows, distractionfree, escrib
 ---
 
 Desde hace tiempo tenía en mente hacer un review sobre Focuswriter, pero quería tomarme el tiempo para redactar este artículo hasta que lograra al menos tener en claro algunas cosas específicas sobre el uso de esta herramienta.
+
 FocusWriter es un software diseñado para escribir sin distracción alguna, no tendremos molestias de ventanas. notificaciones, íconos, entre otros que nos afecte o distraiga de nuestro enfoques cuando escribimos algún artículo, salvo que uses dos o más monitores en tu computador. En tal caso, FocusWriter una vez cargado, se apodera la pantalla activa (casi siempre donde está el puntero) y cargará un tema que podría variar, pero casi siempre es un fondo blanco y un cursor parpadeando en espera de empezar a escribir.
+
 Obviamente puedes minimizar la ventana con alt+tab para ver el menú de tu desktop, ver otras ventanas, etcétera, pero si nos dedicamos a la escritura aplicada, como en mi caso que estoy escribiendo un libro, FocusWriter para mi, quizás sea el mejor software a considerar que tienes que tener a la mano.
 
 ### Las Características.
