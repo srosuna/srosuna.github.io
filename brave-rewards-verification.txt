@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: srosuna.github.io
-Token: 56021318c3d07486f1474b6c2bd26ad8bd9d4249b6d9c2238363781191339fcb
