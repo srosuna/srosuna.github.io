@@ -16,7 +16,7 @@ Profesional en la Administración, Asesor Comercial, Conferencista en Software L
 * Supervisor de Banca operativa.
 * Asesor Comercial.
 * Organizador del FLISOL (Festival de Instalación de Software Libre año 2011)
-* Usuario GNU/Linux Devuan, y Debian.
+* Usuario GNU/Linux.
 * Programador Python.
 
 
